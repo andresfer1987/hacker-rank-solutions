@@ -1,0 +1,13 @@
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.exe
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.deps.json
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.runtimeconfig.json
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.runtimeconfig.dev.json
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.dll
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\bin\Debug\netcoreapp3.1\2. New Year Chaos.pdb
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.AssemblyInfoInputs.cache
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.AssemblyInfo.cs
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.csproj.CoreCompileInputs.cache
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.dll
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.pdb
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.genruntimeconfig.cache
+C:\Users\Yuxi\source\repos\HackerRank\2. New Year Chaos\obj\Debug\netcoreapp3.1\2. New Year Chaos.csprojAssemblyReference.cache

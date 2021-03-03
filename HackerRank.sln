@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. JaggedArrays", "HackerRank\1. JaggedArrays.csproj", "{D2FB2297-74F5-4B32-B397-DD31D49F0E7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. New Year Chaos", "2. New Year Chaos\2. New Year Chaos.csproj", "{8084D98E-A137-43BA-9B85-26E0C1BC929F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Left rotation", "3. Left rotation\3. Left rotation.csproj", "{F61CE324-C241-48A4-8952-9454C4AC8B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FB2297-74F5-4B32-B397-DD31D49F0E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FB2297-74F5-4B32-B397-DD31D49F0E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FB2297-74F5-4B32-B397-DD31D49F0E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FB2297-74F5-4B32-B397-DD31D49F0E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8084D98E-A137-43BA-9B85-26E0C1BC929F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8084D98E-A137-43BA-9B85-26E0C1BC929F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8084D98E-A137-43BA-9B85-26E0C1BC929F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8084D98E-A137-43BA-9B85-26E0C1BC929F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61CE324-C241-48A4-8952-9454C4AC8B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61CE324-C241-48A4-8952-9454C4AC8B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61CE324-C241-48A4-8952-9454C4AC8B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61CE324-C241-48A4-8952-9454C4AC8B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A78BE61-793F-49F0-A876-DA980B7BDE42}
+	EndGlobalSection
+EndGlobal

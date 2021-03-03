@@ -1,0 +1,13 @@
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.exe
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.deps.json
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.runtimeconfig.json
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.runtimeconfig.dev.json
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.dll
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\bin\Debug\netcoreapp3.1\3. Left rotation.pdb
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.csprojAssemblyReference.cache
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.AssemblyInfoInputs.cache
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.AssemblyInfo.cs
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.csproj.CoreCompileInputs.cache
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.dll
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.pdb
+C:\Users\Yuxi\source\repos\HackerRank\3. Left rotation\obj\Debug\netcoreapp3.1\3. Left rotation.genruntimeconfig.cache
